@@ -1,0 +1,6 @@
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.POCO\bin\Debug\ChallengeThree.POCO.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.POCO\bin\Debug\ChallengeThree.POCO.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.POCO\obj\Debug\ChallengeThree.POCO.csproj.AssemblyReference.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.POCO\obj\Debug\ChallengeThree.POCO.csproj.CoreCompileInputs.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.POCO\obj\Debug\ChallengeThree.POCO.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.POCO\obj\Debug\ChallengeThree.POCO.pdb

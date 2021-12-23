@@ -1,0 +1,12 @@
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.csproj.AssemblyReference.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.csproj.CoreCompileInputs.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.UI.exe.config
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.UI.exe
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.UI.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.POCO.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.Repository.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.POCO.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\bin\Debug\ChallengeOne.Repository.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.csproj.CopyComplete
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.exe
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.pdb

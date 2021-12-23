@@ -1,0 +1,6 @@
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeTwo.POCO\bin\Debug\ChallengeTwo.POCO.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeTwo.POCO\bin\Debug\ChallengeTwo.POCO.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeTwo.POCO\obj\Debug\ChallengeTwo.POCO.csproj.AssemblyReference.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeTwo.POCO\obj\Debug\ChallengeTwo.POCO.csproj.CoreCompileInputs.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeTwo.POCO\obj\Debug\ChallengeTwo.POCO.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeTwo.POCO\obj\Debug\ChallengeTwo.POCO.pdb

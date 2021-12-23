@@ -1,0 +1,2 @@
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.Repository\obj\Debug\ChallengeThree.Repository.csproj.AssemblyReference.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeThree.Repository\obj\Debug\ChallengeThree.Repository.csproj.CoreCompileInputs.cache

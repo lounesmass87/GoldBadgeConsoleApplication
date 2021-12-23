@@ -1,0 +1,9 @@
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\bin\Debug\ChallengeOne.Repository.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\bin\Debug\ChallengeOne.Repository.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\bin\Debug\ChallengeOne.POCO.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\bin\Debug\ChallengeOne.POCO.pdb
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.csproj.AssemblyReference.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.csproj.CopyComplete
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.dll
+C:\Users\lmass\source\repos\challengeOne.UI\ChallengeOne.Repository\obj\Debug\ChallengeOne.Repository.pdb
